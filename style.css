@@ -1,0 +1,25 @@
+.nombre{
+    color: blue ;
+}
+.nombre{
+    color: lightseagreen ;
+}
+h1{
+    color: green ;
+}
+#identificador{
+    color: maroon ;
+}
+h1{
+   color: blue ;
+}
+h1{
+    color: red ;
+}
+
+[miguel="angel"]{
+    color: mediumpurple;
+}
+[miguel="angel"]{
+    color: mediumspringgreen;
+}
